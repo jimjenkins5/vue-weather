@@ -1,1 +1,40 @@
 // app global css in SCSS form
+
+.weather-cards {
+   overflow-x: scroll;
+   display: grid;
+   grid-auto-flow: column;
+   grid-auto-columns: 250px;
+   grid-gap: 20px;
+   padding: 20px;
+}
+
+.weather-card {
+   .weather-period-name {
+      margin: 0 0 0 .25em;
+      width: 100%;
+      text-align: center;
+   }
+
+   .weather-icon-image {
+      width: 75%;
+      margin: 0 auto;
+      text-align: center;
+   }
+
+   .weather-details {
+      list-style: none;
+      padding: 0;
+      margin: .5em 0;
+      li {
+         margin: 0;
+         padding: 0;
+      }
+
+      .label {
+         font-weight: bold;
+         margin-right: 10px;
+         display: inline-block;
+      }
+   }
+}

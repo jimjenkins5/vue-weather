@@ -4,4 +4,7 @@
 export default {
    failed: 'Action failed',
    success: 'Action was successful',
+
+   temperatureLabel: 'Temperature:',
+   windLabel: 'Wind:',
 };

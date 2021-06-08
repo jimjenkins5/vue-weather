@@ -1,0 +1,172 @@
+{
+   "skc": {
+      "description": "Fair/clear",
+      "day": "/images/weather/weather_icons-01.svg",
+      "night": "/images/weather/weather_icons-05.svg"
+   },
+   "few": {
+      "description": "A few clouds",
+      "day": "/images/weather/weather_icons-17.svg",
+      "night": "/images/weather/weather_icons-18.svg"
+   },
+   "sct": {
+      "description": "Partly cloudy",
+      "day": "/images/weather/weather_icons-17.svg",
+      "night": "/images/weather/weather_icons-18.svg"
+   },
+   "bkn": {
+      "description": "Mostly cloudy",
+      "day": "/images/weather/weather_icons-16.svg",
+      "night": "/images/weather/weather_icons-16.svg"
+   },
+   "ovc": {
+      "description": "Overcast",
+      "day": "/images/weather/weather_icons-16.svg",
+      "night": "/images/weather/weather_icons-16.svg"
+   },
+   "wind_skc": {
+      "description": "Fair/clear and windy",
+      "day": "/images/weather/weather_icons-57.svg",
+      "night": "/images/weather/weather_icons-57.svg"
+   },
+   "wind_few": {
+      "description": "A few clouds and windy",
+      "day": "/images/weather/weather_icons-59.svg",
+      "night": "/images/weather/weather_icons-60.svg"
+   },
+   "wind_sct": {
+      "description": "Partly cloudy and windy",
+      "day": "/images/weather/weather_icons-59.svg",
+      "night": "/images/weather/weather_icons-60.svg"
+   },
+   "wind_bkn": {
+      "description": "Mostly cloudy and windy",
+      "day": "/images/weather/weather_icons-58.svg",
+      "night": "/images/weather/weather_icons-58.svg"
+   },
+   "wind_ovc": {
+      "description": "Overcast and windy",
+      "day": "/images/weather/weather_icons-58.svg",
+      "night": "/images/weather/weather_icons-58.svg"
+   },
+   "snow": {
+      "description": "Snow",
+      "day": "/images/weather/weather_icons-31.svg",
+      "night": "/images/weather/weather_icons-31.svg"
+   },
+   "rain_snow": {
+      "description": "Rain/snow",
+      "day": "/images/weather/weather_icons-31.svg",
+      "night": "/images/weather/weather_icons-31.svg"
+   },
+   "rain_sleet": {
+      "description": "Rain/sleet",
+      "day": "/images/weather/weather_icons-36.svg",
+      "night": "/images/weather/weather_icons-36.svg"
+   },
+   "snow_sleet": {
+      "description": "Snow/sleet",
+      "day": "/images/weather/weather_icons-31.svg",
+      "night": "/images/weather/weather_icons-31.svg"
+   },
+   "fzra": {
+      "description": "Freezing rain",
+      "day": "/images/weather/weather_icons-25.svg",
+      "night": "/images/weather/weather_icons-25.svg"
+   },
+   "rain_fzra": {
+      "description": "Rain/freezing rain",
+      "day": "/images/weather/weather_icons-25.svg",
+      "night": "/images/weather/weather_icons-25.svg"
+   },
+   "snow_fzra": {
+      "description": "Freezing rain/snow",
+      "day": "/images/weather/weather_icons-31.svg",
+      "night": "/images/weather/weather_icons-31.svg"
+   },
+   "sleet": {
+      "description": "Sleet",
+      "day": "/images/weather/weather_icons-25.svg",
+      "night": "/images/weather/weather_icons-25.svg"
+   },
+   "rain": {
+      "description": "Rain",
+      "day": "/images/weather/weather_icons-19.svg",
+      "night": "/images/weather/weather_icons-19.svg"
+   },
+   "rain_showers": {
+      "description": "Rain showers (high cloud cover)",
+      "day": "/images/weather/weather_icons-19.svg",
+      "night": "/images/weather/weather_icons-19.svg"
+   },
+   "rain_showers_hi": {
+      "description": "Rain showers (low cloud cover)",
+      "day": "/images/weather/weather_icons-19.svg",
+      "night": "/images/weather/weather_icons-19.svg"
+   },
+   "tsra": {
+      "description": "Thunderstorm (high cloud cover)",
+      "day": "/images/weather/weather_icons-28.svg",
+      "night": "/images/weather/weather_icons-28.svg"
+   },
+   "tsra_sct": {
+      "description": "Thunderstorm (medium cloud cover)",
+      "day": "/images/weather/weather_icons-28.svg",
+      "night": "/images/weather/weather_icons-28.svg"
+   },
+   "tsra_hi": {
+      "description": "Thunderstorm (low cloud cover)",
+      "day": "/images/weather/weather_icons-28.svg",
+      "night": "/images/weather/weather_icons-28.svg"
+   },
+   "tornado": {
+      "description": "Tornado",
+      "day": "/images/weather/weather_icons-61.svg",
+      "night": "/images/weather/weather_icons-61.svg"
+   },
+   "hurricane": {
+      "description": "Hurricane conditions",
+      "day": "/images/weather/weather_icons-58.svg",
+      "night": "/images/weather/weather_icons-58.svg"
+   },
+   "tropical_storm": {
+      "description": "Tropical storm conditions",
+      "day": "/images/weather/weather_icons-58.svg",
+      "night": "/images/weather/weather_icons-58.svg"
+   },
+   "dust": {
+      "description": "Dust",
+      "day": "/images/weather/weather_icons-40.svg",
+      "night": "/images/weather/weather_icons-41.svg"
+   },
+   "smoke": {
+      "description": "Smoke",
+      "day": "/images/weather/weather_icons-40.svg",
+      "night": "/images/weather/weather_icons-41.svg"
+   },
+   "haze": {
+      "description": "Haze",
+      "day": "/images/weather/weather_icons-40.svg",
+      "night": "/images/weather/weather_icons-41.svg"
+   },
+   "hot": {
+      "description": "Hot",
+      "day": "/images/weather/weather_icons-65.svg",
+      "night": "/images/weather/weather_icons-65.svg"
+   },
+   "cold": {
+      "description": "Cold",
+      "day": "/images/weather/weather_icons-63.svg",
+      "night": "/images/weather/weather_icons-63.svg"
+   },
+   "blizzard": {
+      "description": "Blizzard",
+      "day": "/images/weather/weather_icons-31.svg",
+      "night": "/images/weather/weather_icons-31.svg"
+   },
+   "fog": {
+      "description": "Fog/mist",
+      "day": "/images/weather/weather_icons-40.svg",
+      "night": "/images/weather/weather_icons-41.svg"
+   }
+}
